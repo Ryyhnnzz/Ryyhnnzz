@@ -1,97 +1,51 @@
-<!-- 🌌 HERO SECTION -->
-<div align="center">
-  <img src="https://i.imgur.com/DfQqKQd.png" width="120" alt="Logo"/>
-
-  <h1>👋 Hi, I'm <span style="color:#00bfff;">Reyhann Permanaa</span></h1>
-  <h3>💻 Fullstack Developer | Creative Web Engineer | Code + Design Enthusiast</h3>
-
-  <a href="https://github.com/<username>">
-    <img src="https://img.shields.io/github/followers/<Ryyhnnzz>?label=Followers&style=social" alt="followers"/>
-  </a>
-  <a href="https://github.com/<Ryyhnnzz>?tab=repositories">
-    <img src="https://img.shields.io/github/stars/<Ryyhnnzz>?label=Stars&style=social" alt="stars"/>
-  </a>
-
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00BFFF&center=true&vCenter=true&width=550&lines=💡+Front-End+%26+Back-End+Developer;🎨+UI%2FUX+Designer;⚙️+Creative+Fullstack+Projects;🌐+Java+|+PHP+|+Node+|+React+|+Python" alt="Typing animation">
-</div>
-
----
-
-## 🧠 About Me  
-✨ Passionate about turning ideas into real web experiences.  
-🚀 Focused on clean, efficient, and creative development.  
-💬 I enjoy learning new frameworks and improving UI designs.  
-📍 Based in: **Indonesia**  
-
----
-
-## 🧩 My Tech Stack  
+<h1 align="center">Hi 👋, I'm Reyhann</h1>
+<h3 align="center">Junior Web & Mobile Developer | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,nodejs,react,python" alt="skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20React-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Backend-PHP%2C%20Node.js-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+### 👨‍💻 About Me
 
-<div align="center">
-
-| 🧩 Project | 📄 Description | ⚙️ Tech |
-|------------|----------------|----------|
-| [**✨ My Portfolio Website**](https://github.com/<Ryyhnnzz>/portfolio) | Personal portfolio with modern animations & responsive layout. | HTML, CSS, JS |
-| [**🧺 Laundry System App**](https://github.com/<Ryyhnnzz>/laundry-php) | Manage orders, payments, and receipts for laundry business. | PHP, MySQL |
-| [**🤖 Chat AI Web**](https://github.com/<Ryyhnnzz>/chat-ai) | AI Chat App using Node.js + React + Gemini API. | Node.js, React |
-| [**🌐 REST API Service**](https://github.com/<Ryyhnnzz>/rest-api) | RESTful API for authentication & data exchange. | Node.js, Express |
-
-</div>
+- 🧠 Junior developer passionate about solving problems through code & design
+- 📱 Building responsive web & mobile apps with great user experience
+- 🎨 Designing sleek and intuitive interfaces in Figma
+- 🌱 Currently learning more about **React Native**, **Next.js**, and **Tailwind CSS**
+- 💬 Ask me anything about web dev, mobile apps, or UI/UX!
+- 📫 Reach me at: **izdihar07.bs@gmail.com**
 
 ---
 
-## 📊 GitHub Stats & Activity  
+### 🛠️ Tech Stack
 
-<div align="center" style="margin-top: 20px;">
-
-  <!-- Compact stats cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=<Ryyhnnzz>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&icon_color=00bfff" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=<Ryyhnnzz>&theme=tokyonight&hide_border=true&background=0D1117&fire=00bfff&ring=00bfff" height="165" alt="Streak Stats"/>
-
-  <!-- Activity graph -->
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<Ryyhnnzz>&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
-
-</div>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## 🎨 Design Showcase  
-
-<div align="center">
-  <img src="https://i.imgur.com/TmEuxvV.png" width="700px" alt="Design Showcase Preview"/>
-  <br><br>
-  <p>
-    <em>✨ A glimpse of my latest creative projects — blending clean design with powerful code.</em>
-  </p>
-</div>
-
----
-
-## 🌍 Connect With Me  
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/<Ryyhnnzz>"><img src="https://skillicons.dev/icons?i=linkedin" width="45px" /></a>
-  <a href="https://instagram.com/<Ryyhnnzz>"><img src="https://skillicons.dev/icons?i=instagram" width="45px" /></a>
-  <a href="https://x.com/<Ryyhnnzz>"><img src="https://skillicons.dev/icons?i=twitter" width="45px" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=bintanggz&show_icons=true&theme=tokyonight" alt="bintanggz's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintanggz&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-⭐️ *Crafted with passion by [<Ryyhnnzz>](https://github.com/<Ryyhnnzz>)*  
+### 🤝 Let’s Connect!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ryyhnnnn1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reyhanpermana8189.bs@gmail.com)
+
+
+---
+
+> *"Design with purpose, build with passion."*
