@@ -2,13 +2,13 @@
 <div align="center">
   <img src="https://i.imgur.com/DfQqKQd.png" width="120" alt="Logo"/>
 
-  <h1>👋 Hi, I'm <span style="color:#00bfff;">Reyy</span></h1>
+  <h1>👋 Hi, I'm <span style="color:#00bfff;">Reyhann Permanaa</span></h1>
   <h3>💻 Fullstack Developer | Creative Web Engineer | Code + Design Enthusiast</h3>
 
   <a href="https://github.com/<username>">
     <img src="https://img.shields.io/github/followers/<Ryyhnnzz>?label=Followers&style=social" alt="followers"/>
   </a>
-  <a href="https://github.com/<username>?tab=repositories">
+  <a href="https://github.com/<Ryyhnnzz>?tab=repositories">
     <img src="https://img.shields.io/github/stars/<Ryyhnnzz>?label=Stars&style=social" alt="stars"/>
   </a>
 
@@ -94,4 +94,4 @@
 
 ---
 
-⭐️ *Crafted with passion by [<username>](https://github.com/<Ryyhnnzz>)*  
+⭐️ *Crafted with passion by [<Ryyhnnzz>](https://github.com/<Ryyhnnzz>)*  
