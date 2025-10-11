@@ -14,7 +14,7 @@
 - 🎨 Designing sleek and intuitive interfaces in Figma
 - 🌱 Currently learning more about **React Native**, **Next.js**, and **Tailwind CSS**
 - 💬 Ask me anything about web dev, mobile apps, or UI/UX!
-- 📫 Reach me at: **izdihar07.bs@gmail.com**
+- 📫 Reach me at: **reyhanpermana8189@gmail.com**
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 🤝 Let’s Connect!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ryyhnnnn1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reyhanpermana8189.bs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reyhanpermana8189@gmail.com)
 
 
 ---
