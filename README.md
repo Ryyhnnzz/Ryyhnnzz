@@ -13,7 +13,7 @@
   </a>
 
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00BFFF&center=true&vCenter=true&width=550&lines=💡+Front-End+%26+Back-End+Developer;🎨+UI%2FUX+Designer;⚙️+Loves+Building+Creative+Projects;🌐+Java+|+PHP+|+Node+|+React+|+Python" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00BFFF&center=true&vCenter=true&width=550&lines=💡+Front-End+%26+Back-End+Developer;🎨+UI%2FUX+Designer;⚙️+Creative+Fullstack+Projects;🌐+Java+|+PHP+|+Node+|+React+|+Python" alt="Typing animation">
 </div>
 
 ---
@@ -48,8 +48,8 @@
 |------------|----------------|----------|
 | [**✨ My Portfolio Website**](https://github.com/<username>/portfolio) | Personal portfolio with modern animations & responsive layout. | HTML, CSS, JS |
 | [**🧺 Laundry System App**](https://github.com/<username>/laundry-php) | Manage orders, payments, and receipts for laundry business. | PHP, MySQL |
-| [**🤖 Chat AI Web**](https://github.com/<username>/chat-ai) | AI Chat App using Node.js + React + Gemini API | Node.js, React |
-| [**🌐 REST API Service**](https://github.com/<username>/rest-api) | RESTful API for user authentication & data exchange | Node.js, Express |
+| [**🤖 Chat AI Web**](https://github.com/<username>/chat-ai) | AI Chat App using Node.js + React + Gemini API. | Node.js, React |
+| [**🌐 REST API Service**](https://github.com/<username>/rest-api) | RESTful API for authentication & data exchange. | Node.js, Express |
 
 </div>
 
@@ -57,31 +57,29 @@
 
 ## 📊 GitHub Stats & Activity  
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<username>&theme=tokyonight&hide_border=true" height="165">
+  <!-- Compact stats cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&icon_color=00bfff" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=<username>&theme=tokyonight&hide_border=true&background=0D1117&fire=00bfff&ring=00bfff" height="165" alt="Streak Stats"/>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<username>&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="90%"/>
+  <!-- Activity graph -->
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<username>&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
 ## 🎨 Design Showcase  
-<p align="center">
-  <img src="https://i.imgur.com/jmZ3JTo.gif" width="600px" alt="Preview">
-</p>
 
----
-
-## 🌈 Fun Section  
-
-💬 *“Good code is like good art — it speaks for itself.”*  
-🎧 Currently listening to: **Lo-Fi Beats while coding**  
-☕ Favorite combo: *Dark Mode + Coffee + Terminal*  
+<div align="center">
+  <img src="https://i.imgur.com/TmEuxvV.png" width="700px" alt="Design Showcase Preview"/>
+  <br><br>
+  <p>
+    <em>✨ A glimpse of my latest creative projects — blending clean design with powerful code.</em>
+  </p>
+</div>
 
 ---
 
