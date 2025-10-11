@@ -53,9 +53,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bintanggz&show_icons=true&theme=tokyonight" alt="bintanggz's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryyhnnzz&show_icons=true&theme=tokyonight" alt="Ryyhnnzz's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintanggz&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryyhnnzz&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
